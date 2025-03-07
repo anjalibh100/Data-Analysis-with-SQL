@@ -1,6 +1,6 @@
-Tools :
+Project Details :- Exploratory Data Analysis using SQL queries.
 
-MySQL Workbench
-Exploratory Data Analysis with SQL
+Source : Retail Sales Data
 
+Tools : MySQL Workbench
 Data imported by running sql commands in the MySQL workbench ver 8.0
