@@ -1,7 +1,8 @@
-PROJECT OBJECTIVE: Exploratory Data Analysis using SQL Project
---------------------------------------------------------------
+PROJECT Name: Retail Sales Analysis SQL Project
+-----------------------------------------------
+
 Situation:
---------------
+-------------
 The project involves performing an exploratory data analysis using SQL queries on a retail sales dataset.
 
 Task:
