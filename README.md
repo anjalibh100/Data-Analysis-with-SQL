@@ -11,7 +11,7 @@ The task was to import retail sales data into MySQL Workbench, create a database
 
 Action:
 -----------
-The data (Retail Sales data (.csv file) was imported by running SQL commands in MySQL Workbench version 8.0.
+The Retail Sales dataset (.csv file) was imported by running SQL commands in MySQL Workbench version 8.0.
 Three specific files were utilized for different purposes:
 Project-Retail-Sales-Schema-creation-with-SQL: Created the database schema in MySQL Workbench.
 Project-Retail-Sales-Database-Model: Contained the relational data model for the database.
