@@ -1,5 +1,5 @@
-PROJECT Name: Retail Sales Analysis SQL Project
------------------------------------------------
+PROJECT : Retail Sales Analysis SQL Project
+-------------------------------------------
 
 Situation:
 -------------
