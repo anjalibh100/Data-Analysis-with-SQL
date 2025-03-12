@@ -1,3 +1,5 @@
+PROJECT OBJECTIVE: Exploratory Data Analysis using SQL Project
+
 S (Situation):
 The project involves performing an exploratory data analysis using SQL queries on a retail sales dataset.
 
