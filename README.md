@@ -1,10 +1,17 @@
-Project Details :- Exploratory Data Analysis using SQL queries.
+S (Situation):
+The project involves performing an exploratory data analysis using SQL queries on a retail sales dataset.
 
-Source : Retail Sales Data
+T (Task):
+The task was to import retail sales data into MySQL Workbench, create a database schema, and perform data analysis using SQL queries to extract meaningful insights.
 
-The code was run in MySQL Workbench. Data imported by running sql commands in the MySQL workbench ver 8.0
+A (Action):
 
-The following files (in this directory) have the specific information :
-1. Project-Retail-Dales-Schema-creation-with-SQL => Database Schema created with SQL run in MYSQL Workbench.
-2. Project-Retails-Sales-Database-Model => Contains the Relational Data Model.
-3. Project-Retail-Sales-Analysis-with-SQL => Contains the sql code for analysis of the database.
+The data (Retail Sales data (.csv file) was imported by running SQL commands in MySQL Workbench version 8.0.
+Three specific files were utilized for different purposes:
+Project-Retail-Sales-Schema-creation-with-SQL: Created the database schema in MySQL Workbench.
+Project-Retail-Sales-Database-Model: Contained the relational data model for the database.
+Project-Retail-Sales-Analysis-with-SQL: Contained the SQL code used for performing the analysis of the retail sales data.
+
+R (Result):
+The successful completion of the analysis provided valuable insights into the retail sales data, enabling the understanding of trends, patterns, and key metrics in the retail business.
+
