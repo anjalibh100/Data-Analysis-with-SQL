@@ -23,4 +23,4 @@ The successful completion of the analysis provided valuable insights into the re
 
 Code to create schema => https://github.com/anjalibh100/Data-Analysis-with-SQL/blob/main/Project-Retail-Sales-Schema-creation-with-SQL.sql
 
-
+Analysis with SQL => https://github.com/anjalibh100/Data-Analysis-with-SQL/blob/main/Project-Retail-Sales-Analysis-with-SQL.sql
